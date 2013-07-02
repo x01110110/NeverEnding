@@ -1,0 +1,13 @@
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\MyFont.xnb
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\Debug.xnb
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\realAsset.xnb
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\NeverEnding.exe
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\NeverEnding.pdb
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\obj\x86\Release\NeverEnding.exe
+c:\users\charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\obj\x86\Release\NeverEnding.pdb
+C:\Users\Charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\GameThumbnail.xnb
+C:\Users\Charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\gravel.xnb
+C:\Users\Charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\Fireball.xnb
+C:\Users\Charly\documents\visual studio 2010\Projects\NeverEnding\NeverEnding\NeverEnding\bin\x86\Release\Content\gravel2.xnb
